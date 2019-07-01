@@ -1,0 +1,73 @@
+<template>
+<section nav class="nav-bar">
+  <b-navbar toggleable="md" type="dark" variant="info">
+
+
+  <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
+
+  <img src="/logo_transparent.png" height="50" width="50" class="d-inline-block align-top" alt="LondonEast logo">
+
+
+  <b-navbar-brand href="/" class="title">Family History</b-navbar-brand>
+
+  <b-collapse is-nav id="nav_collapse">
+
+    <b-navbar-nav class="nav">
+      <b-nav-item href="/">Home</b-nav-item>
+      <b-nav-item href="/uk">uk</b-nav-item>
+
+      <b-nav-item-dropdown text="uk" right>
+        <b-dropdown-item href="/uk">United kingdom</b-dropdown-item>
+        <b-dropdown-item href="/education">Education</b-dropdown-item>
+        <b-dropdown-item href="/housing">Housing</b-dropdown-item>
+        <b-dropdown-item href="/goods">Second hand goods</b-dropdown-item>
+        <b-dropdown-item href="/links">Other Links</b-dropdown-item>
+        <b-dropdown-item href="/contact">Contact Me</b-dropdown-item>
+      </b-nav-item-dropdown>
+
+
+    </b-navbar-nav>
+
+    <!-- Right aligned nav items -->
+    <b-navbar-nav class="ml-auto">
+    </b-navbar-nav>
+
+  </b-collapse>
+</b-navbar>
+</section>
+
+</template>
+
+<style scoped>
+
+
+
+.title{
+  color    : gold;
+  font-size: 1.5rem;
+
+}
+
+.nav{
+  font-size: 21px;
+
+}
+
+.dropdown-item{
+background: #343A40;
+color     : whitesmoke;
+}
+
+a:hover {
+  color: gold;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  color: gold;
+}
+
+</style>

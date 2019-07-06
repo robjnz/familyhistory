@@ -109,6 +109,10 @@
 
 <adath />
 <federation />
+<liberal />
+<united />
+<western />
+<br><br>
 
       </div>
     </b-row>
@@ -132,6 +136,10 @@
 import jewishB from '@/components/buttons/jewishB'
 import adath from '@/pages/uk/adath'
 import federation from '@/pages/uk/federation'
+import liberal from '@/pages/uk/liberal'
+import united from '@/pages/uk/united'
+import western from '@/pages/uk/western'
+
 
 
 
@@ -148,6 +156,9 @@ export default {
     jewishB,
     adath,
     federation,
+    liberal,
+    united,
+    western,
 
   }
 }

@@ -17,10 +17,10 @@ import burial from '@/components/buttons/burial'
     data() {
       return {
         // Note `isActive` is left out and will not appear in the rendered table
-        fields: ['Cemetery', 'Address', 'Year_Oppened'],
+        fields: ['Cemetery', 'Address', 'Year_Opened'],
         items : [
-          { isActive: true, Cemetery: 'Cheshunt', Address: 'Silver Street', Year_Oppened: '1964'},
-          { isActive: true, Cemetery: 'Enfield', Address: 'Carterhatch Lane ', Year_Oppened: '1927'}
+          { isActive: true, Cemetery: 'Cheshunt', Address: 'Silver Street', Year_Opened: '1964'},
+          { isActive: true, Cemetery: 'Enfield', Address: 'Carterhatch Lane ', Year_Opened: '1927'}
         ]
       }
     },

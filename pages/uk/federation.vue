@@ -20,10 +20,10 @@ import federation from '@/components/buttons/federation'
     data() {
       return {
         // Note `isActive` is left out and will not appear in the rendered table
-        fields: ['Cemetery', 'Address', 'Year_Oppened'],
+        fields: ['Cemetery', 'Address', 'Year_Opened'],
         items : [
-          { isActive: true, Cemetery: 'Edmonton', Address: 'Montague Road', Year_Oppened: '1890'},
-          { isActive: true, Cemetery: 'Rainham', Address: 'Upminster Road North ', Year_Oppened: '1938'}
+          { isActive: true, Cemetery: 'Edmonton', Address: 'Montague Road', Year_Opened: '1890'},
+          { isActive: true, Cemetery: 'Rainham', Address: 'Upminster Road North ', Year_Opened: '1938'}
         ]
       }
     },

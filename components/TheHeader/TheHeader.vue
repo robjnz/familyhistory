@@ -16,15 +16,12 @@
       <b-nav-item href="/">Home</b-nav-item>
       <b-nav-item href="/uk">uk</b-nav-item>
 
-      <b-nav-item-dropdown text="uk" right>
-        <b-dropdown-item href="/uk">United kingdom</b-dropdown-item>
-        <b-dropdown-item href="/education">Education</b-dropdown-item>
-        <b-dropdown-item href="/housing">Housing</b-dropdown-item>
-        <b-dropdown-item href="/goods">Second hand goods</b-dropdown-item>
-        <b-dropdown-item href="/links">Other Links</b-dropdown-item>
-        <b-dropdown-item href="/contact">Contact Me</b-dropdown-item>
-      </b-nav-item-dropdown>
 
+      <b-nav-item-dropdown text="Jewish" right>
+        <b-dropdown-item href="/shoah">Shoah</b-dropdown-item>
+        <b-dropdown-item href="/uk/jewish">Uk Jewish</b-dropdown-item>
+
+      </b-nav-item-dropdown>
 
     </b-navbar-nav>
 

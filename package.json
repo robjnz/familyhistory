@@ -1,26 +1,26 @@
 {
-  "name": "familyhistory",
-  "version": "1.0.0",
-  "description": "My wonderful Nuxt.js project",
-  "author": "robin harris",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
+  "name"       : "familyhistory",
+  "version"    : "1.0.0",
+  "description": "genealogy information of birth, death, marriages, military records and much more!",
+  "author"     : "robin harris",
+  "private"    : true,
+  "scripts"    : {
+    "dev"     : "nuxt",
+    "build"   : "nuxt build",
+    "start"   : "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "bootstrap": "^4.3.1",
+    "bootstrap"    : "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.25",
-    "cross-env": "^5.2.0",
-    "nuxt": "^2.8.1"
+    "cross-env"    : "^5.2.0",
+    "nuxt"         : "^2.8.1"
   },
   "devDependencies": {
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "nodemon": "^1.19.1",
-    "prettier": "^1.18.2"
+    "nodemon"               : "^1.19.1",
+    "prettier"              : "^1.18.2"
   }
 }

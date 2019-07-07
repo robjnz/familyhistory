@@ -4,8 +4,8 @@
     <b-row>
       <div>
 
-        <h1 class="title-color">United Kingdom </h1>
-        <h2>Jewish Resources</h2>
+        <h1 class="title-color">Shoah</h1>
+        <h2>Holocaust Resources</h2>
         <b-button-group>
     <jewishB />
   </b-button-group>
@@ -104,15 +104,7 @@
 
 <hr class="hr">
 <br>
-<h2>Jewish Cemeteries</h2>
-<br>
 
-<adath />
-<federation />
-<liberal />
-<united />
-<western />
-<br><br>
 
       </div>
     </b-row>

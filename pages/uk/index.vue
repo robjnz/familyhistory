@@ -160,7 +160,7 @@ export default {
     return {
       titleTemplate: '%s uk',
       meta         : [
-        { hid: 'description', name: 'description', content: 'usefull computer software worth looking at, freeware and paid versions. ' }
+        { hid: 'description', name: 'description', content: 'Genealogy information in the britain united kingdom of birth, death, marriages, military records.' }
       ]
     }
     },

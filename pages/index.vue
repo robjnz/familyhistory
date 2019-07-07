@@ -5,7 +5,7 @@
       <br><br>
     <b-badge pill variant="dark">
     <h1> <font color="gold"><br></font></h1>
-    <h2> Researching my <br>family history <br>from eastern europe<br>& Links <br>to <br>internet <br>resources.
+    <h2> Researching <br>family history <br>usefull Links <br>to <br>internet <br>resources.
     <br><br>
 </h2>
 

@@ -3,11 +3,12 @@
   <div class="intro" >
 
       <br><br>
-    <b-badge pill variant="dark">
-    <h1> <font color="gold"><br></font></h1>
-    <h2> Researching <br>family history <br>usefull Links <br>to <br>internet <br>resources.
+    <b-badge pill variant="info">
+    <h1> <font color="black">
+    <br>Resources <br>for <br>researching <br>family history<br>
     <br><br>
-</h2>
+    </font>
+</h1>
 
     </b-badge>
 
@@ -18,7 +19,7 @@
 </template>
 <style scoped>
 .showcase{
-  background             : url(https://res.cloudinary.com/dzhbfdfa5/image/upload/v1518885824/Synagogue_tp75wc.jpg) no-repeat center center fixed;
+  background             : url(https://res.cloudinary.com/dzhbfdfa5/image/upload/v1562569145/religions_map_l4pc8f.png) no-repeat center center fixed;
   background-size        : cover;
   -webkit-background-size: cover;
   -moz-background-size   : cover;
@@ -33,7 +34,7 @@
   margin-top  : 50px;
   padding-left: 30px;
   color       : ghostwhite;
-  font-family : Damion;
+  font-family : Roboto;
   }
 
   .alert{

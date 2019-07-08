@@ -35,8 +35,6 @@
     search original version of the JC, from 1841.
     <br>
     <br>
-    <br>
-    <br>
   </p>
   <b-button href="http://bit.ly/2jWAXhT" target="_blank" variant="info">open</b-button>
 </b-card>
@@ -48,7 +46,7 @@
 <b-card bg-variant="dark" text-variant="white" title= "Jewish London WW1.">
   <p class="title-color">
     Jewish London WW1.
-    <br><br><br>
+    <br><br>
 
   </p>
   <b-button href="http://bit.ly/2LrGkod" target="_blank" variant="info">open</b-button>
@@ -67,7 +65,7 @@
 
     Jews who served in the British army during the first world war.
     <br>
-    <br>
+
     </p>
     <b-button href="http://bit.ly/320z8W1" target="_blank" variant="info">open</b-button>
 </b-card>
@@ -79,8 +77,6 @@
 <b-card bg-variant="dark" text-variant="white" title= "St Georges in the East">
   <p class="title-color">
     Jewish St Georges in the East Stepney
-    <br>
-    <br>
     <br>
   </p>
   <b-button href="http://bit.ly/2rFlBSX" target="_blank" variant="info">open</b-button>

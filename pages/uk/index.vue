@@ -16,8 +16,6 @@
     Free birth marriages and death index from 1837.
     <br>
     <br>
-    <br>
-    <br>
   </p>
   <b-button href="http://bit.ly/2IguCfJ" target="_blank" variant="info">open</b-button>
 </b-card>
@@ -25,7 +23,6 @@
 <b-card bg-variant="dark" text-variant="white" title= "British newspaper archive">
   <p class="title-color">
     British newspaper archive from the 1700s.
-    <br>
     <br>
     <br>
     <br>
@@ -61,8 +58,7 @@
   <p class="title-color">
     Casualty Cards & Muster Roll from April 1918.
     <br>
-    <br>
-    <br>
+
 
   </p>
   <b-button href="http://bit.ly/2rGVfQJ" target="_blank" variant="info">open</b-button>
@@ -95,7 +91,7 @@
 <p class="title-color">
     The 1.7 million men and women of the Commonwealth forces who died in the First and Second World Wars.
     <br>
-    <br>
+
   </p>
   <b-button href="http://bit.ly/2L2exrF" target="_blank" variant="info">open</b-button>
 </b-card>
@@ -104,6 +100,7 @@
 <b-card bg-variant="dark" text-variant="white" title= "1939 Register">
 <p class="title-color">
     1939 Register also avaliable on Ancestry.
+    <br>
     <br>
     <br>
   </p>
@@ -116,7 +113,6 @@
 <b-card bg-variant="dark" text-variant="white" title= "192">
   <p class="title-color">
     Current electoral roll.
-    <br>
     <br>
     </p>
     <b-button href="http://bit.ly/2FPDJAN" target="_blank" variant="info">open</b-button>

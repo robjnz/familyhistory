@@ -1,7 +1,7 @@
 {
   "name"       : "familyhistory",
   "version"    : "1.0.0",
-  "description": "genealogy information of birth, death, marriages, military records and much more!",
+  "description": "Resources for researching family history, genealogy information of birth, death, marriages, military records and much more!",
   "author"     : "robin harris",
   "private"    : true,
   "scripts"    : {

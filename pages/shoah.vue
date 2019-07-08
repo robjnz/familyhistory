@@ -6,106 +6,109 @@
 
         <h1 class="title-color">Shoah</h1>
         <h2>Holocaust Resources</h2>
-        <b-button-group>
-    <jewishB />
-  </b-button-group>
-  <br><br>
+
+  <br>
   <b-card-group deck
   class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= " AJEX Record of Honour">
+<b-card bg-variant="dark" text-variant="white" title= " Auschwitz">
   <p class="title-color">
-    Database jewish men & women who served from 1939 to 1960.
+    Auschwitz prisoners database.
   </p>
-  <b-button href="http://bit.ly/2jX2orS" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2JIO7ts" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
 
-<b-card bg-variant="dark" text-variant="white" title= "JCR - United Kingdom">
+<b-card bg-variant="dark" text-variant="white" title= "Austrian & Galisian">
 
   <p class="title-color">
-    Database of jewish record in the United Kingdom.
+    Austrian & Galisian Victims of the Holocaust.
     <br>
     </p>
-    <b-button href="http://bit.ly/2GflEtg" target="_blank" variant="info">open</b-button>
+    <b-button href="http://bit.ly/2I4pkTt" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Jewish Chronical Archives">
+<b-card bg-variant="dark" text-variant="white" title= "Concentration Camps">
   <p class="title-color">
-    search original version of the JC, from 1841.
+    Concentration Camps list.
     <br>
-    <br>
-    <br>
-    <br>
+
   </p>
-  <b-button href="http://bit.ly/2jWAXhT" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2Jv5v6D" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Jewish London WW1.">
+<b-card bg-variant="dark" text-variant="white" title= "French Deportations.">
   <p class="title-color">
-    Jewish London WW1.
-    <br><br><br>
+    Memorial de la shoah deportation records
+    <br><br>
 
   </p>
-  <b-button href="http://bit.ly/2LrGkod" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2HFElvB" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Marriage Authorisation Records">
+<b-card bg-variant="dark" text-variant="white" title= "Holocaust Database">
   <p class="title-color">
 
-1880 to 1918.
+JewishGen holocaust database contains more than 2.75 million entries.
   </p>
-  <b-button href="http://bit.ly/2wC1AS8" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2rcyjaR" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Roll Of Honour">
+<b-card bg-variant="dark" text-variant="white" title= "Memorial Books">
   <p class="title-color">
 
-    Jews who served in the British army during the first world war.
+    Victims of the Persecution under the National Socialist in Germany 1933 - 1945.
     <br>
-    <br>
+
     </p>
-    <b-button href="http://bit.ly/320z8W1" target="_blank" variant="info">open</b-button>
+    <b-button href="http://bit.ly/2w9ISBm" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "St Georges in the East">
+<b-card bg-variant="dark" text-variant="white" title= "International tracing Service">
   <p class="title-color">
-    Jewish St Georges in the East Stepney
-    <br>
+    Archive center for documenting persecution and the liberated survivors.
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2rFlBSX" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2XxM9mv" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "Survivors and Victims">
   <p class="title-color">
+    USA Holocaust database contains more than 270,000 records
     <br>
     <br>
   </p>
+    <b-button href="http://bit.ly/2JLIKd0" target="_blank" variant="info">open</b-button>
+
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "Yad Vashem">
   <p class="title-color">
+    The central database of shoah victims.
     <br>
-    <br>
-    <br>
+    
   </p>
+  <b-button href="http://bit.ly/2Jm04Iw" target="_blank" variant="info">open</b-button>
+
 </b-card>
 </b-card-group>
 
 <hr class="hr">
 <br>
-
-
+<b-embed type="iframe"
+          aspect = "16by9"
+          src    = "https://giphy.com/embed/k5AJKN45cSnny"
+          allowfullscreen
+  ></b-embed>
       </div>
     </b-row>
 </b-container>
@@ -138,9 +141,9 @@ import western from '@/pages/uk/western'
 export default {
   head () {
     return {
-      titleTemplate: '%s Jewish uk',
+      titleTemplate: '%s Shoah',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Jewish genealogy information in the britain united kingdom of birth, death, marriages, military records & a list of jewish cemeteries. ' }
+        { hid: 'description', name: 'description', content: 'La shoah Holocaust Resources, Auschwitz, French Deportations and International tracing sevices. ' }
       ]
     }
     },

@@ -60,4 +60,13 @@ color: #1A8c97;
 .today{
   color: #FFF5EE;
 }
+.hr {
+
+    background  : #FFCB31;
+    margin-left : auto;
+    margin-right: auto;
+    height      : 7px;
+
+
+}
 </style>

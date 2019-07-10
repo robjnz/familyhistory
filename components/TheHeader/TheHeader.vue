@@ -14,12 +14,20 @@
 
     <b-navbar-nav class="nav">
       <b-nav-item href="/">Home</b-nav-item>
+      <b-nav-item href="/australasia">Australasia</b-nav-item>
       <b-nav-item href="/uk">uk</b-nav-item>
 
+      <b-nav-item-dropdown text="Europe" right>
+        <b-dropdown-item href="/belarus">Belarus</b-dropdown-item>
+
+
+      </b-nav-item-dropdown>
 
       <b-nav-item-dropdown text="Jewish" right>
         <b-dropdown-item href="/shoah">Shoah</b-dropdown-item>
-        <b-dropdown-item href="/uk/jewish">Uk Jewish</b-dropdown-item>
+        <b-dropdown-item href="/australasia/jewish">Australasia</b-dropdown-item>
+        <b-dropdown-item href="/belarus/jewish">Belarus</b-dropdown-item>
+        <b-dropdown-item href="/uk/jewish">Uk</b-dropdown-item>
 
       </b-nav-item-dropdown>
 

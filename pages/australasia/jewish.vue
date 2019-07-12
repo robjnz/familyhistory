@@ -1,8 +1,6 @@
 <template>
 <section main>
   <b-container>
-    <b-row>
-
 
   <div>
     <h1 class="title-color">Australasia</h1>
@@ -72,13 +70,8 @@
 
 </b-card-group>
 
-
-
-
-
-
   </div>
-  </b-row>
+
 </b-container>
 </section>
 </template>

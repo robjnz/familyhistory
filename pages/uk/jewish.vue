@@ -1,7 +1,7 @@
 <template>
 <section>
   <b-container>
-    <b-row>
+
       <div>
 
         <h1 class="title-color">United Kingdom </h1>
@@ -111,7 +111,7 @@
 <br><br>
 
       </div>
-    </b-row>
+    
 </b-container>
 </section>
 </template>

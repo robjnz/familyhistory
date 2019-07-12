@@ -1,9 +1,9 @@
 <template>
 <section main>
   <b-container>
-    <b-row>
-    <h1 class="title-color">United Kingdom</h1>
+
   <div>
+    <h1 class="title-color">United Kingdom</h1>
 
 <b-button-group>
     <jewishB />
@@ -136,7 +136,7 @@
 </b-card-group>
 
   </div>
-  </b-row>
+  
 </b-container>
 </section>
 </template>

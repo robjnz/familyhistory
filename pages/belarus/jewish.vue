@@ -1,58 +1,58 @@
 <template>
 <section main>
   <b-container>
-    <b-row>
+
 
   <div>
 <h1 class="title-color">Belarus</h1>
     <h2>Jewish Resources</h2>
 <b-button-group>
-    <australasiajewish />
+    <belarusjewish />
   </b-button-group>
   <br><br>
 <b-card-group deck
   class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Allambe Memorial Park">
+  <b-card bg-variant="dark" text-variant="white" title= "Belarus Jewish Database">
   <p class="title-color">
-    Allambe Memorial park burial records.
+    Miriam Weiner Archive Database for Belarus.
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2NJaaHn" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2KvCmrA" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Family History SA">
+<b-card bg-variant="dark" text-variant="white" title= "Belarus Burial Records">
   <p class="title-color">
-    South Australian ancestry records.
+    Belarus Burial Records.
     <br>
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2w1EYu0" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2KzCh6b" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "National Archives">
+<b-card bg-variant="dark" text-variant="white" title= "Belarus SIG">
   <p class="title-color">
 
-    National Archives holds many records about your ancestors.
+    Jewish genealogy research in Grodno, Minsk, Mogilev and Vitebsk Gubernias.
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2I46PPj" target="_blank" variant="info">open</b-button>
+    <b-button href="http://bit.ly/2rhCJhz" target="_blank" variant="info">open</b-button>
 </b-card>
 
 </b-card-group>
 
 <b-card-group deck
   class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "South Australian family history">
+<b-card bg-variant="dark" text-variant="white" title= "Jewish Belarus">
   <p class="title-color">
-    Resource for South Australian family history information.
+    Jewish Belarus information.
     <br>
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2rgXJ7a" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2KximVD" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">
@@ -78,7 +78,6 @@
 
 
   </div>
-  </b-row>
 </b-container>
 </section>
 </template>
@@ -90,20 +89,20 @@
 </style>
 
 <script>
-import australasiajewish from '@/components/buttons/australasiajewish'
+import belarusjewish from '@/components/buttons/belarusjewish'
 
 
 export default {
   head () {
     return {
-      titleTemplate: '%s Australasia',
+      titleTemplate: '%s Belarus Jewish',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Genealogy information in Australia & New Zealand of birth, death, marriages, military records & burial records.' }
+        { hid: 'description', name: 'description', content: 'Genealogy information in Belarus Jewish of birth, death, marriages, military records & burial records.' }
       ]
     }
     },
     components: {
-    australasiajewish,
+    belarusjewish,
 
   }
 }

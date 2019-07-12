@@ -4,20 +4,20 @@
 
 
   <div>
- <h1 class="title-color">Belarus</h1>
+ <h1 class="title-color">Canada</h1>
 <b-button-group>
-    <belarusjewish />
+    <canadajewish />
   </b-button-group>
   <br><br>
 <b-card-group deck
   class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Belarus State Archives">
+  <b-card bg-variant="dark" text-variant="white" title= "Canadian Jewish Heritage Network">
   <p class="title-color">
-    State archives.
+    Searchable Database.
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2FFJDBp" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2FI0u6Y" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">
@@ -42,7 +42,7 @@
 
 
   </div>
-  
+
 </b-container>
 </section>
 </template>
@@ -54,20 +54,20 @@
 </style>
 
 <script>
-import belarusjewish from '@/components/buttons/belarusjewish'
+import canadajewish from '@/components/buttons/canadajewish'
 
 
 export default {
   head () {
     return {
-      titleTemplate: '%s Belarus',
+      titleTemplate: '%s Canada',
       meta         : [
-        { hid: 'description', name: 'description', content: 'Genealogy information in Belarus of birth, death, marriages, military records & burial records.' }
+        { hid: 'description', name: 'description', content: 'Genealogy information in Canada jewish of birth, death, marriages, military records & burial records.' }
       ]
     }
     },
     components: {
-    belarusjewish,
+    canadajewish,
 
   }
 }

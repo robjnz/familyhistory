@@ -1,20 +1,15 @@
 <template>
 <section show class="showcase">
-  <div class="intro" >
+    <b-container>
+  <h1 class="con-color">Family History On-Line Resourses</h1>
+    <br>
+ <b-row class="text-center">
+    <b-col></b-col>
+    <b-col ></b-col>
+    <b-col></b-col>
+  </b-row>
 
-      <br><br>
-    <b-badge pill variant="info">
-    <h1> <font color="black">
-    <br>Resources <br>for <br>researching <br>family history<br>
-    <br><br>
-    </font>
-</h1>
-
-    </b-badge>
-
-    </div>
-
-
+    </b-container>
   </section>
 </template>
 <style scoped>
@@ -24,7 +19,7 @@
   -webkit-background-size: cover;
   -moz-background-size   : cover;
   -o-background-size     : cover;
-  height                 : 2000px;
+  height                 : 1000px;
   margin-top             : -75px;
 
 }

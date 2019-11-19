@@ -12,7 +12,7 @@
   <br><br>
 <b-card-group deck
   class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Belarus Jewish Database">
+  <b-card bg-variant="dark" text-variant="white" title= "Belarus Jewish Database" align="center">
   <p class="title-color">
     Miriam Weiner Archive Database for Belarus.
     <br>
@@ -21,7 +21,7 @@
   <b-button href="http://bit.ly/2KvCmrA" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Belarus Burial Records">
+<b-card bg-variant="dark" text-variant="white" title= "Belarus Burial Records" align="center">
   <p class="title-color">
     Belarus Burial Records.
     <br>
@@ -31,7 +31,7 @@
   <b-button href="http://bit.ly/2KzCh6b" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Belarus SIG">
+<b-card bg-variant="dark" text-variant="white" title= "Belarus SIG" align="center">
   <p class="title-color">
 
     Jewish genealogy research in Grodno, Minsk, Mogilev and Vitebsk Gubernias.
@@ -45,7 +45,7 @@
 
 <b-card-group deck
   class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Jewish Belarus">
+<b-card bg-variant="dark" text-variant="white" title= "Jewish Belarus" align="center">
   <p class="title-color">
     Jewish Belarus information.
     <br>

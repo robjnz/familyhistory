@@ -5,13 +5,14 @@
 
   <div>
  <h1 class="title-color">Canada</h1>
+ <h2>Jewish Resources</h2>
 <b-button-group>
     <canadajewish />
   </b-button-group>
   <br><br>
 <b-card-group deck
   class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Canadian Jewish Heritage Network">
+  <b-card bg-variant="dark" text-variant="white" title= "Canadian Jewish Heritage Network" align="center">
   <p class="title-color">
     Searchable Database.
     <br>

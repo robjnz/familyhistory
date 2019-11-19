@@ -11,7 +11,7 @@
   <br><br>
 <b-card-group deck
   class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Canadian State Archives">
+  <b-card bg-variant="dark" text-variant="white" title= "Canadian State Archives" align="center">
   <p class="title-color">
     State archives.
     <br>

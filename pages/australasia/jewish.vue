@@ -12,7 +12,7 @@
   <br><br>
 <b-card-group deck
   class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Australian Jewish Genealogical Society">
+  <b-card bg-variant="dark" text-variant="white" title= "Australian Jewish Genealogical Society" align="center">
   <p class="title-color">
     Jewish Genealogical Society, New South Wales, Northern Territory and Queensland.
     <br>
@@ -46,7 +46,7 @@
 <b-card-group deck
   class="mb-3">
 
-  <b-card bg-variant="dark" text-variant="white" title= "Jewish Burial Database">
+  <b-card bg-variant="dark" text-variant="white" title= "Jewish Burial Database" align="center">
   <p class="title-color">
     The Beverley Davis Burial Database.
     <br>

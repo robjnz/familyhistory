@@ -12,7 +12,7 @@
   <br><br>
   <b-card-group deck
   class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= " AJEX Record of Honour">
+<b-card bg-variant="dark" text-variant="white" title= " AJEX Record of Honour" align="center">
   <p class="title-color">
     Database jewish men & women who served from 1939 to 1960.
   </p>
@@ -21,7 +21,7 @@
 
 
 
-<b-card bg-variant="dark" text-variant="white" title= "JCR - United Kingdom">
+<b-card bg-variant="dark" text-variant="white" title= "JCR - United Kingdom" align="center">
 
   <p class="title-color">
     Database of jewish record in the United Kingdom.
@@ -30,7 +30,7 @@
     <b-button href="http://bit.ly/2GflEtg" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Jewish Chronical Archives">
+<b-card bg-variant="dark" text-variant="white" title= "Jewish Chronical Archives" align="center">
   <p class="title-color">
     search original version of the JC, from 1841.
     <br>
@@ -43,7 +43,7 @@
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "Jewish London WW1.">
+<b-card bg-variant="dark" text-variant="white" title= "Jewish London WW1." align="center">
   <p class="title-color">
     Jewish London WW1.
     <br><br>
@@ -52,7 +52,7 @@
   <b-button href="http://bit.ly/2LrGkod" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Marriage Authorisation Records">
+<b-card bg-variant="dark" text-variant="white" title= "Marriage Authorisation Records" align="center">
   <p class="title-color">
 
 1880 to 1918.
@@ -60,7 +60,7 @@
   <b-button href="http://bit.ly/2wC1AS8" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Roll Of Honour">
+<b-card bg-variant="dark" text-variant="white" title= "Roll Of Honour" align="center">
   <p class="title-color">
 
     Jews who served in the British army during the first world war.
@@ -74,7 +74,7 @@
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "St Georges in the East">
+<b-card bg-variant="dark" text-variant="white" title= "St Georges in the East" align="center">
   <p class="title-color">
     Jewish St Georges in the East Stepney
     <br>
@@ -111,7 +111,7 @@
 <br><br>
 
       </div>
-    
+
 </b-container>
 </section>
 </template>

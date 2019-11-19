@@ -11,16 +11,17 @@
   <br><br>
 <b-card-group deck
   class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "Allambe Memorial Park">
+  <b-card bg-variant="dark" text-variant="white" title= "Allambe Memorial Park" align="center">
   <p class="title-color">
     Allambe Memorial park burial records.
+    <br>
     <br>
     <br>
   </p>
   <b-button href="http://bit.ly/2NJaaHn" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Family History SA">
+<b-card bg-variant="dark" text-variant="white" title= "Family History SA" align="center">
   <p class="title-color">
     South Australian ancestry records.
     <br>
@@ -30,7 +31,7 @@
   <b-button href="http://bit.ly/2w1EYu0" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "National Archives">
+<b-card bg-variant="dark" text-variant="white" title= "National Archives" align="center">
   <p class="title-color">
 
     National Archives holds many records about your ancestors.
@@ -44,7 +45,7 @@
 
 <b-card-group deck
   class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "South Australian family history">
+<b-card bg-variant="dark" text-variant="white" title= "South Australian family history" align="center">
   <p class="title-color">
     Resource for South Australian family history information.
     <br>
@@ -54,7 +55,7 @@
   <b-button href="http://bit.ly/2rgXJ7a" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
 
     <br>
@@ -63,7 +64,7 @@
   </p>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
 
 
@@ -79,7 +80,7 @@
 <b-card-group deck
   class="mb-3">
 
-  <b-card bg-variant="dark" text-variant="white" title= "Archway">
+  <b-card bg-variant="dark" text-variant="white" title= "Archway" align="center">
   <p class="title-color">
     Government records from Auckland, Christchurch, Dunedin and Wellington.
     <br>
@@ -88,21 +89,21 @@
   <b-button href="http://bit.ly/2HJxCwH" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Auckland Cemeteries">
+<b-card bg-variant="dark" text-variant="white" title= "Auckland Cemeteries" align="center">
   <p class="title-color">
     Burial and cremation record.
-    <br>
+    <br><br><br>
 
 
   </p>
   <b-button href="http://bit.ly/2Kwl25S" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Birth Death & Marriages">
+<b-card bg-variant="dark" text-variant="white" title= "Birth Death & Marriages" align="center">
   <p class="title-color">
 
     Online records.
-    <br>
+    <br><br>
     <br>
     </p>
     <b-button href="http://bit.ly/2JzPBrF" target="_blank" variant="info">open</b-button>
@@ -112,7 +113,7 @@
 
 <b-card-group deck
   class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "Companies Register">
+<b-card bg-variant="dark" text-variant="white" title= "Companies Register" align="center">
   <p class="title-color">
     Companies Register.
     <br>
@@ -122,7 +123,7 @@
   <b-button href="http://bit.ly/2FAOF2j" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Gazette">
+<b-card bg-variant="dark" text-variant="white" title= "Gazette" align="center">
   <p class="title-color">
     Search the gazette 1993 - 2017.
     <br>
@@ -134,7 +135,7 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "New Zealand National Archives">
+<b-card bg-variant="dark" text-variant="white" title= "New Zealand National Archives" align="center">
   <p class="title-color">
     New Zealand national archives.
 

@@ -8,23 +8,63 @@
 
 
 <url>
-  <loc>https://family-history.netlify.com/</loc>
-  <lastmod>2019-07-07T16:50:39+00:00</lastmod>
+  <loc>https://family-history.tips/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://family-history.netlify.com/uk/</loc>
-  <lastmod>2019-07-07T16:50:39+00:00</lastmod>
+  <loc>https://family-history.tips/general/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://family-history.netlify.com/shoah/</loc>
-  <lastmod>2019-07-07T16:50:39+00:00</lastmod>
+  <loc>https://family-history.tips/australasia/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://family-history.netlify.com/uk/jewish/</loc>
-  <lastmod>2019-07-07T16:50:39+00:00</lastmod>
+  <loc>https://family-history.tips/canada/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/uk/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/belarus/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/jewish/general/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/shoah/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/australasia/jewish/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/belarus/jewish/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/canada/jewish/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/uk/jewish/</loc>
+  <lastmod>2019-11-20T06:04:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 

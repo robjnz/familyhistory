@@ -23,7 +23,7 @@ import western from '@/components/buttons/western'
         fields: ['Cemetery', 'Address', 'Year_Opened'],
         items : [
           { isActive: true, Cemetery: 'Cheshunt', Address: 'Bullscross Ride', Year_Opened: '1968'},
-          { isActive: true, Cemetery: 'Edmomtom', Address: 'Montague Road', Year_Opened: '1889'},
+          { isActive: true, Cemetery: 'Edmonton', Address: 'Montague Road', Year_Opened: '1889'},
           { isActive: true, Cemetery: 'Fulham', Address: 'Fulham Road', Year_Opened: '1815'},
           { isActive: true, Cemetery: 'Streatham', Address: 'Rowan Road', Year_Opened: '1915'}
 

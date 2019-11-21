@@ -1,4 +1,4 @@
 <template>
-    <b-button href="/belarus/jewish" target="_blank" variant="info">Jewish</b-button>
+    <b-button href="/belarus/jewish" variant="info">Jewish</b-button>
 
 </template>

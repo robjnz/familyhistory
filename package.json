@@ -17,6 +17,7 @@
     "cross-env": "^6.0.3",
     "jshint": "^2.10.3",
     "lodash": "^4.17.15",
+    "netlify-cli": "^2.21.0",
     "nuxt": "^2.10.2",
     "portal-vue": "^2.1.6"
   },

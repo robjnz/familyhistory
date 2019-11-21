@@ -15,7 +15,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: pkg.description }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '/globe.jpg' },
       {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Damion|Lato:400,700|Roboto'}
     ]
   },

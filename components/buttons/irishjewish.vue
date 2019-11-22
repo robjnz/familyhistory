@@ -1,4 +1,4 @@
 <template>
-    <b-button href="/Irish/jewish" variant="info">Jewish</b-button>
+    <b-button href="/irish/jewish" variant="info">Jewish</b-button>
 
 </template>

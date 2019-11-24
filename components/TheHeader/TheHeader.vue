@@ -24,7 +24,8 @@
         <b-dropdown-item href="/ukraine">Ukraine</b-dropdown-item>
 
       </b-nav-item-dropdown>
-      <b-nav-item href="/uk">uk</b-nav-item>
+      <b-nav-item href="/uk">UK</b-nav-item>
+      <b-nav-item href="/usa">USA</b-nav-item>
 
       <b-nav-item-dropdown text="Jewish" right>
         <b-dropdown-item href="/jewish/general">General</b-dropdown-item>
@@ -35,8 +36,11 @@
         <b-dropdown-item href="/irish/jewish">Ireland</b-dropdown-item>
         <b-dropdown-item href="/uk/jewish">Uk</b-dropdown-item>
         <b-dropdown-item href="/ukraine/jewish">Ukraine</b-dropdown-item>
+        <b-dropdown-item href="/usa/jewish">USA</b-dropdown-item>
+
 
       </b-nav-item-dropdown>
+      <b-nav-item href="/contact">Contact</b-nav-item>
 
     </b-navbar-nav>
 

@@ -9,10 +9,6 @@
 
   <meta http-equiv="refresh" content="0; url=https://pub30.bravenet.com/passwd/verify.php?usernum=2539049398"/>
 
-
-
-
-
       </div>
   </b-container>
 </section>

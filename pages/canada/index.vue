@@ -63,12 +63,16 @@ export default {
       titleTemplate: '%s Canada',
       meta         : [
         { hid: 'description', name: 'description', content: 'Genealogy information in Canada of birth, death, marriages, military records & burial records.' }
-      ]
+    ]
     }
+
+
     },
     components: {
     canadajewish,
 
   }
-}
+  }
 </script>
+
+

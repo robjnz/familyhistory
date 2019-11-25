@@ -11,9 +11,8 @@
 <b-embed
     type   = "iframe"
     aspect = "16by9"
-    src    = "https://docs.google.com/forms/d/e/1FAIpQLSfGapXnWx7u_vQ7CogtXbGOnBuaxckE63zjrbdTOZUveVZePQ/viewform?embedded=true" width = "640" height = "1265" frameborder = "0" marginheight = "0" marginwidth = "0">Loading…"
-    allowfullscreen
-  ></b-embed>
+    src    = "https://docs.google.com/forms/d/e/1FAIpQLSfGapXnWx7u_vQ7CogtXbGOnBuaxckE63zjrbdTOZUveVZePQ/viewform?embedded=true" width = "640" height = "1265" frameborder = "0" marginheight = "0" marginwidth = "0">Loading…" allowfullscreen>
+    </b-embed>
       </div>
 
 </b-container>

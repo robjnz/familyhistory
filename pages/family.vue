@@ -22,9 +22,11 @@
 
 
 export default {
-  head () {
-    return {
+  head ()
 
+
+   {
+    return {
 
       titleTemplate: '%s Contact',
       meta         : [

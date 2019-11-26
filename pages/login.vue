@@ -5,10 +5,7 @@
       <div>
 
         <b-card bg-variant="danger" text-variant="white" header="" class="text-center">
-          <!--
-        <b-card-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</b-card-text>
-        -->
-        <!-- Start Bravenet.com Service Code -->
+<!-- Start Bravenet.com Service Code -->
 <div style="text-align: right; width:210px; padding:5px;font: normal 13px arial;">
   <form action="https://pub30.bravenet.com/passwd/show.php" method="post" target="_top">
     <input type="hidden" name="usernum" value="2539049398">
@@ -20,7 +17,8 @@
   </form>
 </div>
 <!-- End Bravenet.com Service Code -->
-      </b-card>
+
+        </b-card>
 
       </div>
   </b-container>

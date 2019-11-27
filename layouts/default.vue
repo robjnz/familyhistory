@@ -60,6 +60,14 @@ color: #1A8c97;
 .today{
   color: #FFF5EE;
 }
+
+.text1{
+  color: #f1f227;
+}
+
+.text2{
+  color: #8b0000;
+}
 .hr {
 
     background  : #FFCB31;

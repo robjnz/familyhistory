@@ -41,6 +41,7 @@
 
       </b-nav-item-dropdown>
       <b-nav-item href="/contact">Contact</b-nav-item>
+      <b-nav-item href="/login">Family History</b-nav-item>
 
     </b-navbar-nav>
 

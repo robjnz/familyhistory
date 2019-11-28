@@ -5,9 +5,6 @@
       <div>
         <b-card bg-variant="danger" text-variant="white" header="Private family History Pages" class="text-center">
 
-
-
-<input type="button" value="Enter Protected Page" onClick="passWord()">
 <!-- Start Bravenet.com Service Code -->
 <div style="text-align: right; width:210px; padding:5px;font: normal 13px arial;">
   <form action="https://pub30.bravenet.com/passwd/show.php" method="post" target="_top">
@@ -20,8 +17,10 @@
   </form>
 </div>
 <!-- End Bravenet.com Service Code -->
+
 </b-card>
       </div>
+
   </b-container>
 </section>
 

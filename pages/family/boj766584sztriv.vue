@@ -54,7 +54,7 @@ From Kutno, Plock & Warsaw Poland.
     <br>
     <br>
   </p>
-  <b-button href="/family/rivkov/rivkov975500mogilev241" target="_blank" variant="dark">open</b-button>
+  <b-button href="/family/rivkov/rivkov97500mogilev241" target="_blank" variant="dark">open</b-button>
 
 </b-card>
 

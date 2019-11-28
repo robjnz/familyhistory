@@ -49,11 +49,12 @@ From Kutno, Plock & Warsaw Poland.
   class="mb-3">
 <b-card bg-variant="info" text-variant="white" title= "rivkov" align="center">
   <p class="text1">
-    From Mogilev in Dnepropetrovsk Region of Ukraine?
+    The Rivkov family May have origanaly came from <a href="http://bit.ly/2rqQ6vP" target="_blank">Mogilev</a> in the Dnepropetrovsk region?
+      of Ukraine, emigrating to London England in about 1901.
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/330R55R" target="_blank" variant="dark">open</b-button>
+  <b-button href="/family/rivkov/rivkov975500mogilev241" target="_blank" variant="dark">open</b-button>
 
 </b-card>
 
@@ -80,12 +81,22 @@ From Kutno, Plock & Warsaw Poland.
 </b-card>
 
 </b-card-group>
-<button style="border-radius:5px;padding:5px 10px;background:#000;border:0;color:#fff;" onclick="top.location.href = 'https://pub30.bravenet.com/passwd/logout.php?usernum=2539049398';" target="_top">Logout</button>
+<button style="border-radius:5px;padding:5px 10px;background:#000;border:0;color:#fff;" onclick="top.location.href = 'https://family-history.tips/';" target="_top">Logout</button>
 
       </div>
   </b-container>
 </section>
 </template>
 
+<style scoped>
+
+a{
+color: white ;
+}
+
+a:hover {
+  text-decoration: none;
+}
+</style>
 
 

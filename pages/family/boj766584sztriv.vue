@@ -66,6 +66,7 @@ From Kutno, Plock & Warsaw Poland.
     <br>
   </p>
   <b-button href="http://bit.ly/2pwUJXv" target="_blank" variant="dark">open</b-button>
+
 </b-card>
 
 

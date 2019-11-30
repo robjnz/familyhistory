@@ -88,21 +88,23 @@ Jewish community of Mogilev (Dnipropetrovsk region).
   <b-button href="http://bit.ly/2FOm2P0" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Russian & Ukrainian Family" align="center">
-  <p class="title-color">
-    searchable databases in Russian.
-    <br>
-    <br>
-    </p>
 
-    <b-button href="http://bit.ly/2w8fnQa" target="_blank" variant="info">open</b-button>
+
+<b-card bg-variant="dark" text-variant="white" title= "Skala-Podilska" align="center">
+  <p class="title-color">
+      Jewish community of Mohyliv-Podilskyy.
+    <br><br>
+  </p>
+    <b-button href="http://bit.ly/34s9FW4" target="_blank" variant="info">open</b-button>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Ukraine SIG" align="center">
+
+
+  <b-card bg-variant="dark" text-variant="white" title= "Ukraine SIG" align="center">
   <p class="title-color">
       Russian Empire gubernias in Ukraine & Russia.
-    <br>
+    <br><br>
   </p>
     <b-button href="http://bit.ly/2HT7zHs" target="_blank" variant="info">open</b-button>
 
@@ -110,6 +112,44 @@ Jewish community of Mogilev (Dnipropetrovsk region).
 
 </b-card-group>
 
+<b-card-group deck
+  class="mb-3">
+  <b-card bg-variant="dark" text-variant="white" title= "Ukraine" align="center">
+  <p class="title-color">
+History of Jewish settlements in Ukraine can be traced back to the 8th century.
+    <br>
+    <br>
+  </p>
+
+  <b-button href="http://bit.ly/35H9neg" target="_blank" variant="info">open</b-button>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
+  <p class="title-color">
+
+    <br>
+    <br>
+    </p>
+<!--
+    <b-button href="http://bit.ly/2w8fnQa" target="_blank" variant="info">open</b-button>
+-->
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
+  <p class="title-color">
+
+    <br>
+    <br>
+    </p>
+<!--
+    <b-button href="http://bit.ly/2w8fnQa" target="_blank" variant="info">open</b-button>
+-->
+</b-card>
+
+
+
+</b-card-group>
 
   </div>
 </b-container>

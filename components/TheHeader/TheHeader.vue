@@ -17,6 +17,7 @@
       <b-nav-item href="/general">General</b-nav-item>
       <b-nav-item href="/australasia">Australasia</b-nav-item>
       <b-nav-item href="/canada">Canada</b-nav-item>
+      <b-nav-item href="/Caribbean">Caribbean</b-nav-item>
 
       <b-nav-item-dropdown text="Europe" right>
         <b-dropdown-item href="/belarus">Belarus</b-dropdown-item>
@@ -34,6 +35,7 @@
         <b-dropdown-item href="/australasia/jewish">Australasia</b-dropdown-item>
         <b-dropdown-item href="/belarus/jewish">Belarus</b-dropdown-item>
         <b-dropdown-item href="/canada/jewish">Canada</b-dropdown-item>
+        <b-dropdown-item href="/caribbean/jewish">Caribbean</b-dropdown-item>
         <b-dropdown-item href="/irish/jewish">Ireland</b-dropdown-item>
         <b-dropdown-item href="/russian/jewish">Russian</b-dropdown-item>
         <b-dropdown-item href="/uk/jewish">Uk</b-dropdown-item>

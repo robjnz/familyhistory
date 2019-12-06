@@ -1,11 +1,13 @@
 <template>
 <section show class="showcase">
     <b-container>
-  <h1 class="con-color">Family History On-Line Resourses</h1>
-    <br>
  <b-row class="text-center">
     <b-col></b-col>
-    <b-col ></b-col>
+    <b-col >
+      <section class="header">
+  <h1>Family History On-Line Resourses</h1>
+  </section>
+    </b-col>
     <b-col></b-col>
   </b-row>
 
@@ -41,7 +43,21 @@
   font-family : Damion;
   }
 
+.header h1{
+      font-size          : 50px;
+      color              : red;
+      line-height        : 1.3;
+      position           : relative;
+      animation          : heading;
+      animation-duration : 5s;
+      animation-fill-mode: forwards;
+}
 
+@keyframes heading {
+0% {top: -40px}
+100% {top: 375px}
+
+}
 
 
 </style>

@@ -5,11 +5,14 @@
     <b-col></b-col>
     <b-col >
       <section class="header">
+
   <h1>Family History On-Line Resourses</h1>
   </section>
     </b-col>
-    <b-col></b-col>
+    <b-col>
+    </b-col>
   </b-row>
+
 
     </b-container>
   </section>
@@ -58,7 +61,6 @@
 100% {top: 375px}
 
 }
-
 
 </style>
 

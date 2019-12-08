@@ -63,6 +63,7 @@
       animation-duration        : 12s;
       transition-timing-function: ease-in;
       animation-fill-mode       : forwards;
+      animation-delay           : 2s;
 
 }
 

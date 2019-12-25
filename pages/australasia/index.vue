@@ -18,6 +18,7 @@
     <br>
     <br>
   </p>
+  
   <b-button href="http://bit.ly/2NJaaHn" target="_blank" variant="info">open</b-button>
 </b-card>
 

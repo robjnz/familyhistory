@@ -8,24 +8,27 @@
     <img id="traveler2" src="/travelertwo.svg" alt="traveler"/>
 
   <h1 id="header">Family History <br>On-Line Resourses</h1>
-  
+
 <div class="text-right">
 
   <img class="plane3" id="plane3" src="/planegoldright.svg" alt="plane"/>
   <img class="plane2" id="plane2" src="/planegoldright.svg" alt="plane"/>
   <img class="plane1" id="plane1" src="/planegoldright.svg" alt="plane"/>
-  
+
+    <img class="treeman" id="treeman" src="/treeman.svg" alt="treeman"/>
+
+
   <img id="traveler" src="/travelertwo.svg" alt="traveler"/>
 </div>
 <div class="text-left">
-  
+
   <h1 id="notes">Birth, School, War, Census, Emigration, Naturalisation, Death, Will & Cemeteries.</h1>
 
 </div>
-     
+
   </b-col>
   </b-row>
- 
+
 </b-container>
 
 
@@ -101,7 +104,14 @@
   easing    : 'easeInOutSine',
 
   });
+anime({
+  targets   : '#treeman',
+  translateY: [400, 0],
+  duration  : 9000,
+  delay     : 3000,
+  easing    : 'easeInOutSine',
 
+  });
 
 </script>
   </section>
@@ -125,7 +135,7 @@ font-size  : 50px;
 color      : red;
 line-height: 1.3;
 position   : relative;
-text-align: center;
+text-align : center;
 
 
 }
@@ -170,6 +180,12 @@ text-align: center;
       width   : 100px;
       height  : 100px;
 }
+#treeman{
+      position: relative;
+      width   : 150px;
+      height  : 150px;
+}
+
 
 </style>
 

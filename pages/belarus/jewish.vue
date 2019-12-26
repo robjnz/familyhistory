@@ -74,7 +74,11 @@
 </b-card>
 </b-card-group>
 
-
+<section>
+    <br><br>
+    <google />
+<br><br>
+</section>
 
 
   </div>
@@ -90,6 +94,7 @@
 
 <script>
 import belarusjewish from '@/components/buttons/belarusjewish'
+import google from '@/components/google'
 
 
 export default {
@@ -103,6 +108,7 @@ export default {
     },
     components: {
     belarusjewish,
+    google,
 
   }
 }

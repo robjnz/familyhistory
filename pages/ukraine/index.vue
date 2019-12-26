@@ -82,7 +82,11 @@ born between 1650 and 1920
 
 </b-card-group>
 
-
+<section>
+    <br><br>
+    <google />
+<br><br>
+</section>
   </div>
 
 </b-container>
@@ -97,6 +101,7 @@ born between 1650 and 1920
 
 <script>
 import ukrainejewish from '@/components/buttons/ukrainejewish'
+import google from '@/components/google'
 
 
 export default {
@@ -110,6 +115,7 @@ export default {
     },
     components: {
     ukrainejewish,
+    google,
 
   }
 }

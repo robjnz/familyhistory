@@ -150,7 +150,11 @@ History of Jewish settlements in Ukraine can be traced back to the 8th century.
 
 
 </b-card-group>
-
+<section>
+    <br><br>
+    <google />
+<br><br>
+</section>
   </div>
 </b-container>
 </section>
@@ -164,6 +168,7 @@ History of Jewish settlements in Ukraine can be traced back to the 8th century.
 
 <script>
 import ukrainejewish from '@/components/buttons/ukrainejewish'
+import google from '@/components/google'
 
 
 export default {
@@ -177,6 +182,7 @@ export default {
     },
     components: {
     ukrainejewish,
+    google,
 
   }
 }

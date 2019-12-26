@@ -37,7 +37,7 @@
   anime({
   targets   : '#plane1',
   translateX: [1000, -1500],
-  duration  : 9000,
+  duration  : 9999,
   easing    : 'easeInOutSine',
 
   });
@@ -45,7 +45,7 @@
   anime({
   targets   : '#plane2',
   translateX: [1000, -1500],
-  duration  : 9000,
+  duration  : 9999,
   delay     : 2000,
   easing    : 'easeInOutSine',
 
@@ -54,7 +54,7 @@
   anime({
   targets   : '#plane3',
   translateX: [1000, -1500],
-  duration  : 9000,
+  duration  : 9999,
   delay     : 4000,
   easing    : 'easeInOutSine',
 
@@ -63,7 +63,7 @@
   anime({
   targets   : '#notes',
   translateX: [-1500, 70],
-  duration  : 9000,
+  duration  : 9999,
   delay     : 3000,
   easing    : 'easeInOutSine',
 
@@ -72,7 +72,7 @@
   anime({
   targets   : '#header',
   translateY: [-400, 200],
-  duration  : 9000,
+  duration  : 9999,
   delay     : 3000,
   easing    : 'easeInOutSine',
 
@@ -81,7 +81,7 @@
   anime({
   targets   : '#traveler',
   translateX: [1400, 45],
-  duration  : 9000,
+  duration  : 9999,
   delay     : 3000,
   easing    : 'easeInOutSine',
 
@@ -90,7 +90,7 @@
   anime({
   targets   : '#traveler1',
   translateX: [-1000, 130],
-  duration  : 9000,
+  duration  : 9999,
   delay     : 3000,
   easing    : 'easeInOutSine',
 
@@ -99,7 +99,7 @@
   anime({
   targets   : '#traveler2',
   translateX: [1400, 375],
-  duration  : 9000,
+  duration  : 9999,
   delay     : 3000,
   easing    : 'easeInOutSine',
 
@@ -107,7 +107,7 @@
 anime({
   targets   : '#treeman',
   translateY: [400, 0],
-  duration  : 9000,
+  duration  : 9999,
   delay     : 3000,
   easing    : 'easeInOutSine',
 

@@ -122,6 +122,12 @@ Search Russian military awards.
 </b-card>
 
   </b-card-group>
+
+  <section>
+    <br><br>
+    <google />
+<br><br>
+</section>
   </div>
 
 </b-container>
@@ -136,6 +142,7 @@ Search Russian military awards.
 
 <script>
 import russianjewish from '@/components/buttons/russianjewish'
+import google from '@/components/google'
 
 
 export default {
@@ -149,6 +156,7 @@ export default {
     },
     components: {
     russianjewish,
+    google,
 
   }
 }

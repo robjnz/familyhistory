@@ -21,6 +21,8 @@
 
       <b-nav-item-dropdown text="Europe" right>
         <b-dropdown-item href="/belarus">Belarus</b-dropdown-item>
+        <b-dropdown-item href="/belgium">Belgium</b-dropdown-item>
+        <b-dropdown-item href="/dutch">Dutch</b-dropdown-item>
         <b-dropdown-item href="/irish">Ireland</b-dropdown-item>
         <b-dropdown-item href="/russian">Russian</b-dropdown-item>
         <b-dropdown-item href="/ukraine">Ukraine</b-dropdown-item>
@@ -34,8 +36,10 @@
         <b-dropdown-item href="/shoah">Shoah</b-dropdown-item>
         <b-dropdown-item href="/australasia/jewish">Australasia</b-dropdown-item>
         <b-dropdown-item href="/belarus/jewish">Belarus</b-dropdown-item>
+        <b-dropdown-item href="/belgium/jewish">Belgium</b-dropdown-item>
         <b-dropdown-item href="/canada/jewish">Canada</b-dropdown-item>
         <b-dropdown-item href="/caribbean/jewish">Caribbean</b-dropdown-item>
+        <b-dropdown-item href="/dutch/jewish">Dutch</b-dropdown-item>
         <b-dropdown-item href="/irish/jewish">Ireland</b-dropdown-item>
         <b-dropdown-item href="/russian/jewish">Russian</b-dropdown-item>
         <b-dropdown-item href="/uk/jewish">Uk</b-dropdown-item>

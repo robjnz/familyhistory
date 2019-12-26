@@ -41,7 +41,11 @@ Russian-Jewish Fallen Soldiers of World War 2
 </b-card>
 
 </b-card-group>
-
+<section>
+    <br><br>
+    <google />
+<br><br>
+</section>
 
   </div>
 </b-container>
@@ -56,6 +60,7 @@ Russian-Jewish Fallen Soldiers of World War 2
 
 <script>
 import russianjewish from '@/components/buttons/russianjewish'
+import google from '@/components/google'
 
 
 export default {
@@ -69,6 +74,7 @@ export default {
     },
     components: {
     russianjewish,
+    google,
 
   }
 }

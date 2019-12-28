@@ -41,35 +41,10 @@ Tracing your Ancestors in Vienna.
 
 </b-card-group>
 
-<b-card-group deck
-  class="mb-3">
-  <b-card bg-variant="dark" text-variant="white" title= "1" align="center">
-  <p class="title-color">
-    State archives.
-    
-  </p>
-  <b-button href="http://bit.ly/34XEQrF" target="_blank" variant="info">open</b-button>
-</b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "2" align="center">
-  <p class="title-color">
-Tracing your Ancestors in Vienna.
-    
-  </p>
-    <b-button href="http://bit.ly/2SrGLCq" target="_blank" variant="info">open</b-button>
 
-</b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "3">
-  <p class="title-color">
 
-Burials records for Viennese cemeteries.
-  </p>
-      <b-button href="http://bit.ly/39gyS8N" target="_blank" variant="info">open</b-button>
-
-</b-card>
-
-</b-card-group>
 <section>
     <br><br>
     <google />

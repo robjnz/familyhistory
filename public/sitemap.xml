@@ -9,143 +9,153 @@
 
 <url>
   <loc>https://family-history.tips/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://family-history.tips/general/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://family-history.tips/australasia/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://family-history.tips/canada/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://family-history.tips/caribbean/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/austria/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://family-history.tips/belarus/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/irish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/russian/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/ukraine/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/uk/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/usa/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/jewish/general/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/shoah/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/australasia/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/belarus/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/canada/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/caribbean/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/irish/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/russian/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/uk/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/ukraine/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/usa/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/contact/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/login/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/dutch/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://family-history.tips/dutch/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://family-history.tips/belgium/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
-  <priority>0.80</priority>
-  <url>
-  <loc>https://family-history.tips/belgium/jewish/</loc>
-  <lastmod>2019-12-05T22:18:01+00:00</lastmod>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://family-history.tips/dutch/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/irish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/russian/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/ukraine/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/uk/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/usa/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/jewish/general/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/shoah/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/australasia/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/austria/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/belarus/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/belgium/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/canada/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/caribbean/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/dutch/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/irish/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/russian/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/uk/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/ukraine/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/usa/jewish/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/contact/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://family-history.tips/login/</loc>
+  <lastmod>2020-01-04T09:49:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 

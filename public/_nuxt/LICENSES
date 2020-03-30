@@ -5,6 +5,14 @@
   */
 
 /*!
+ * BootstrapVue Icons, generated from Bootstrap Icons 1.0.0-alpha3
+ *
+ * @link https://icons.getbootstrap.com/
+ * @license MIT
+ * https://github.com/twbs/icons/blob/master/LICENSE.md
+ */
+
+/*!
  * Determine if an object is a Buffer
  *
  * @author   Feross Aboukhadijeh <https://feross.org>
@@ -32,7 +40,7 @@
 /*! 
   * portal-vue © Thorsten Lünborg, 2019 
   * 
-  * Version: 2.1.6
+  * Version: 2.1.7
   * 
   * LICENCE: MIT 
   * 
@@ -42,7 +50,7 @@
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
- * @version 1.16.0
+ * @version 1.16.1
  * @license
  * Copyright (c) 2016 Federico Zivolo and contributors
  *

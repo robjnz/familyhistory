@@ -64,14 +64,13 @@ Free access to Mormons records.
 </b-card>
 
 
-<b-card bg-variant="dark" text-variant="white" title= "Family Search" align="center">
+<b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
-Free access to Mormons records.
+
 <br>
     <br>
     <br>
     </p>
-      <b-button href="http://bit.ly/3442Qd1" target="_blank" variant="info">open</b-button>
 
 </b-card>
 

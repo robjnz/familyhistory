@@ -13,6 +13,15 @@
 <b-card-group deck
   class="mb-3">
 
+   <b-card bg-variant="dark" text-variant="white" title= "Amsterdam" align="center">
+  <p class="title-color">
+
+Amsterdam Resident Records  1852-1853.
+    </p>
+        <b-button href="https://bit.ly/2XuWgMi" target="_blank" variant="info">open</b-button>
+
+</b-card>
+
   <b-card bg-variant="dark" text-variant="white" title= "Ashkenazi Cemeteries" align="center">
   <p class="title-color">
 
@@ -24,11 +33,14 @@ Cemetery Records.
   <b-card bg-variant="dark" text-variant="white" title= "Dutch Jewry" align="center">
   <p class="title-color">
     Searchable Database.
-    
-  </p>
-  <b-button href="http://bit.ly/2PYfwO6" target="_blank" variant="info">open</b-button>
-</b-card>
 
+  </p>
+  <b-button href="https://bit.ly/2UYxAKC" target="_blank" variant="info">open</b-button>
+</b-card>
+</b-card-group>
+
+<b-card-group deck
+  class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "Joods Monument" align="center">
   <p class="title-color">
 
@@ -40,10 +52,7 @@ Cemetery Records.
 
 
 
-</b-card-group>
 
-<b-card-group deck
-  class="mb-3">
 
   <b-card bg-variant="dark" text-variant="white" title= "Sephardic Gen" align="center">
   <p class="title-color">
@@ -55,18 +64,12 @@ Resources.
 </b-card>
   <b-card bg-variant="dark" text-variant="white" title= "" align="center">
   <p class="title-color">
-    
-    
+
+
   </p>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "" align="center">
-  <p class="title-color">
 
- 
-  </p>
-
-</b-card>
 </b-card-group>
 
 

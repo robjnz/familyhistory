@@ -42,6 +42,13 @@
 
 <b-card-group deck
       class="mb-3">
+<b-card bg-variant="dark" text-variant="white" title= "Jewish Free School" align="center">
+  <p class="title-color">
+    Jewish Free School Database 1856 to 1907.
+    <br>
+  </p>
+  <b-button href="https://bit.ly/2KBEaAC" target="_blank" variant="info">open</b-button>
+</b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Jewish London WW1." align="center">
   <p class="title-color">
@@ -59,7 +66,10 @@
   </p>
   <b-button href="http://bit.ly/2wC1AS8" target="_blank" variant="info">open</b-button>
 </b-card>
+</b-card-group>
 
+<b-card-group deck
+      class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "Roll Of Honour" align="center">
   <p class="title-color">
 
@@ -69,10 +79,7 @@
     </p>
     <b-button href="http://bit.ly/320z8W1" target="_blank" variant="info">open</b-button>
 </b-card>
-</b-card-group>
 
-<b-card-group deck
-      class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "St Georges in the East" align="center">
   <p class="title-color">
@@ -82,21 +89,27 @@
   <b-button href="http://bit.ly/2rFlBSX" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-  <p class="title-color">
-    <br>
-    <br>
-  </p>
-</b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+
+<b-card bg-variant="dark" text-variant="white" title= "Pre 1850" align="center">
   <p class="title-color">
-    <br>
-    <br>
+    Pre 1850 Anglo Jewry Database
     <br>
   </p>
+  <b-button href="https://bit.ly/2KBFjIq" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
+
+ <b-card-group deck
+  class="mb-3">
+<b-card bg-variant="dark" text-variant="white" title= "1851" align="center">
+  <p class="title-color">
+    1851 Anglo Jewry Database
+    <br>
+  </p>
+  <b-button href="https://bit.ly/3f0oGUE" target="_blank" variant="info">open</b-button>
+</b-card>
+ </b-card-group>
 
 <hr class="hr">
 <br>

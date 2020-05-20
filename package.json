@@ -11,13 +11,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.10.2",
-    "bootstrap": "^4.4.1",
-    "bootstrap-vue": "^2.13.0",
+    "@nuxtjs/axios": "^5.10.3",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.14.0",
     "cross-env": "^7.0.2",
-    "jshint": "^2.11.0",
+    "jshint": "^2.11.1",
     "lodash": "^4.17.15",
-    "netlify-cli": "^2.21.0",
     "nuxt": "^2.12.2",
     "portal-vue": "^2.1.7"
   },

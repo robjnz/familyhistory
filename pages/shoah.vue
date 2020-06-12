@@ -47,7 +47,7 @@
     <br><br>
 
   </p>
-  <b-button href="http://bit.ly/2HFElvB" target="_blank" variant="info">open</b-button>
+  <b-button href="https://bit.ly/3fjLI8E" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Holocaust Database">

@@ -14,7 +14,7 @@
     <br>
     <br>
   </p>
-  <b-button href="https://ancstry.me/2jrZviB" target="_blank" variant="info">open</b-button>
+  <b-button href="https://bit.ly/2P0U8GJ" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Billion Graves" align="center">
